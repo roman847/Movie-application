@@ -2,7 +2,7 @@
 
 Searching movie application
 
-## https://roman847.github.io/Movie-application/dist/
+## https://roman847.github.io/Movie-application/
 
 This is simple searching movie application with information about films from API. The application is adaptive.
 
